@@ -273,5 +273,5 @@ form.addEventListener('submit', e => {
 
 //resume download//
 document.getElementById('my_resume').addEventListener('click',function displaying(){
-  window.open("./assets/img/my_resume.jpg")
+  window.open("./assets/resfinal.pdf")
 })
